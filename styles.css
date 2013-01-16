@@ -8,7 +8,11 @@
 	background: yellow;
 }
 #box-2{
+<<<<<<< HEAD
 	background: #000000;
+=======
+	background: blue;
+>>>>>>> Updated box 2 to blue
 }
 #box-3{
 	background: purple;
