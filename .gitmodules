@@ -1,0 +1,3 @@
+[submodule "Submodule1"]
+	path = Submodule1
+	url = https://github.com/CollinsAx/Submodule1.git
